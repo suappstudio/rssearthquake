@@ -1,0 +1,11 @@
+<resources
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:ignore="MissingTranslation">
+   
+        <string name="app_name">RSSEarthquake</string>
+
+    <string name="title_string">Earthquakes of last 7 days</string>
+
+    <string name="button_text">View Details</string>
+
+</resources>
